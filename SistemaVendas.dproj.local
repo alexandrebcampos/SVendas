@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/29 21:37:44.000.359,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/29 21:39:29.000.372,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Principal\ufrmPrincipal.pas</Transaction>
+    <Transaction>2018/06/29 21:39:29.000.372,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Principal\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2018/06/29 21:39:39.000.741,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\SistemaVendas.dproj</Transaction>
+    <Transaction>2018/06/29 23:26:59.000.689,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/29 23:28:10.000.477,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Conexao\udmConexao.pas</Transaction>
+    <Transaction>2018/06/29 23:28:10.000.477,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Conexao\udmConexao.dfm</Transaction>
+    <Transaction>2018/06/29 23:28:39.000.283,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/29 23:29:01.000.823,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Login\udmLogin.pas</Transaction>
+    <Transaction>2018/06/29 23:29:01.000.823,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Login\udmLogin.dfm</Transaction>
+    <Transaction>2018/06/29 23:37:43.000.661,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/29 23:38:04.000.225,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Controle_Acesso\ufrmControleAcesso.pas</Transaction>
+    <Transaction>2018/06/29 23:38:04.000.225,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Controle_Acesso\ufrmControleAcesso.dfm</Transaction>
+    <Transaction>2018/06/30 01:48:24.000.730,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/30 01:49:29.000.442,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Cliente\udmCliente.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/30 01:49:29.000.442,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Cliente\udmCliente.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm</Transaction>
+    <Transaction>2018/06/30 02:04:03.000.721,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/30 02:04:46.000.182,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Modelo\ufrmModelo.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/30 02:04:46.000.182,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Modelo\ufrmModelo.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm</Transaction>
+    <Transaction>2018/06/30 03:45:46.000.596,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/06/30 03:46:10.000.208,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Cliente\ufrmCadCliente.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm</Transaction>
+    <Transaction>2018/06/30 03:46:10.000.208,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Cliente\ufrmCadCliente.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/01 00:19:13.000.134,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/01 00:19:53.000.410,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Funcionario\udmFuncionario.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/01 00:19:53.000.410,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Funcionario\udmFuncionario.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm</Transaction>
+    <Transaction>2018/07/02 18:37:55.000.015,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/02 18:39:26.000.620,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Funcionario\ufrmCadFuncionario.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm</Transaction>
+    <Transaction>2018/07/02 18:39:26.000.620,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Funcionario\ufrmCadFuncionario.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/03 01:33:24.000.696,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/03 01:35:46.000.158,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Fornecedor\udmFornecedor.dfm</Transaction>
+    <Transaction>2018/07/03 01:35:46.000.158,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Fornecedor\udmFornecedor.pas</Transaction>
+    <Transaction>2018/07/03 01:39:38.000.616,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/03 01:41:11.000.138,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Fornecedor\ufrmCadFornecedor.dfm</Transaction>
+    <Transaction>2018/07/03 01:41:11.000.138,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Fornecedor\ufrmCadFornecedor.pas</Transaction>
+    <Transaction>2018/07/03 16:00:59.000.766,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/03 16:01:26.000.321,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Produto\udmProduto.pas</Transaction>
+    <Transaction>2018/07/03 16:01:26.000.321,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\datamodule\Produto\udmProduto.dfm</Transaction>
+    <Transaction>2018/07/03 23:56:18.000.309,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\ABOUT.pas</Transaction>
+    <Transaction>2018/07/03 23:58:12.000.755,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Ajuda\Sobre\ufrmSobre.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\ABOUT.dfm</Transaction>
+    <Transaction>2018/07/03 23:58:12.000.755,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Ajuda\Sobre\ufrmSobre.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\ABOUT.pas</Transaction>
+    <Transaction>2018/07/04 18:01:32.000.573,=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+    <Transaction>2018/07/04 18:04:53.000.951,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Produto\ufrmCadProduto.dfm=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.dfm</Transaction>
+    <Transaction>2018/07/04 18:04:53.000.951,C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\view\Cadastros\Produto\ufrmCadProduto.pas=C:\Users\Alexandre\Documents\Embarcadero\Studio\Projects\Sistema_Vendas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
